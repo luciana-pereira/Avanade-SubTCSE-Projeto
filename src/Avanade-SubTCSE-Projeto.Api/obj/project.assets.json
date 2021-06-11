@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
+      "projectUniqueName": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
       "projectName": "Avanade-SubTCSE-Projeto.Api",
-      "projectPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
+      "projectPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
       "packagesPath": "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto\\Avanade-SubTCSE-Projeto.Api\\obj\\",
+      "outputPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\l.dos.santos.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

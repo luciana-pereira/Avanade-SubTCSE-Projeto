@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj": {}
+    "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\Avanade-SubTCSE-Projeto.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj": {
+    "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\Avanade-SubTCSE-Projeto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
-        "projectName": "Avanade-SubTCSE-Projeto.Api",
-        "projectPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
+        "projectUniqueName": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\Avanade-SubTCSE-Projeto.Domain.csproj",
+        "projectName": "Avanade-SubTCSE-Projeto.Domain",
+        "projectPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\Avanade-SubTCSE-Projeto.Domain.csproj",
         "packagesPath": "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\obj\\",
+        "outputPath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\l.dos.santos.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.14, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

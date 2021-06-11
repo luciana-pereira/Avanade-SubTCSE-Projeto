@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9s2gQx4gInNQkrqkRHmdWwB+C3ESR0N8hDf9kbLa1fBTRZ2anPyjqHROfvt61n7+tpGk5jtCz5xTQHqu/dPJJA==",
+  "dgSpecHash": "cHuZHS+6g8Iz9GC+B+ottDDdwFpIOui/RuEYK2Sz5ymNdRSeMGxi1AYifepbIDD8VqdCxl4C/I5rEq2crOg8xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
+  "projectFilePath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Api\\Avanade-SubTCSE-Projeto.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
