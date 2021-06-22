@@ -5,4 +5,12 @@
     <RootNamespace>Avanade_SubTCSE_Projeto.Application</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Avanade-SubTCSE-Projeto.Domain\Avanade-SubTCSE-Projeto.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

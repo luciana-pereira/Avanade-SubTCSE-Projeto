@@ -19,10 +19,13 @@ namespace Avanade_SubTCSE_Projeto.Domain.Aggregates.EmployeeRole.Entities
             RoleName = roleName;
         }
 
-        
-
         public string Id { get; private set; }
 
-        public string RoleName { get; init; }
+        public string RoleName { get; init; } 
+
+        public void AlterId(string idNovo)
+        {
+            Id = idNovo;
+        }
     }
 }
