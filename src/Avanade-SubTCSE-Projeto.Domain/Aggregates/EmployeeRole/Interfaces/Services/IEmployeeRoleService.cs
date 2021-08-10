@@ -1,7 +1,9 @@
-﻿namespace Avanade_SubTCSE_Projeto.Domain.Aggregates.EmployeeRole.Interfaces.Services
+﻿using System.Threading.Tasks;
+
+namespace Avanade_SubTCSE_Projeto.Domain.Aggregates.EmployeeRole.Interfaces.Services
 {
     public interface IEmployeeRoleService
     {
-        void AddEmployeeRole(Entities.EmployeeRole employeeRole);
+        Task<Entities.EmployeeRole> AddEmployeeRole(Entities.EmployeeRole employeeRole);
     }
 }

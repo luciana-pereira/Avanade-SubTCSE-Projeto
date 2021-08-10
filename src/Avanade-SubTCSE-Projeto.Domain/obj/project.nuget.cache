@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Z/lWEdisAQqJoWxGqh8TeqjOhTjlFfp7oRy72OttNXN36W8BfRp4DaM/VGZ3LcMwvLMv12As7Jdm5qk4SAkOg==",
+  "dgSpecHash": "+IN9zgScUijV2b/co0mg3UWnYUnAuLLZjVIdY7pAs07jFzaeTvZnO/6ecgzM9SE2w1gJqqDMMRkXqZIG+VpG6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Domain\\Avanade-SubTCSE-Projeto.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

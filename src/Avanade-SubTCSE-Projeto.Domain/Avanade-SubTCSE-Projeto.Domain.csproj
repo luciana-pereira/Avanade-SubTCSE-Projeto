@@ -2,16 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Avanade_SubTCSE_Projeto.Domain</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Aggregates\EmployeeRole\Validators\" />
-    <Folder Include="Aggregates\Employee\Interfaces\Services\" />
+	<Folder Include="Aggregates\Employee\Validators\" />
     <Folder Include="Aggregates\Employee\Interfaces\Repositories\" />
-    <Folder Include="Aggregates\Employee\Validators\" />
-    <Folder Include="Aggregates\Employee\Services\" />
     <Folder Include="Aggregates\Employee\ValueObject\" />
+	<Folder Include="Aggregates\Employee\Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.0" />
   </ItemGroup>
 
 </Project>

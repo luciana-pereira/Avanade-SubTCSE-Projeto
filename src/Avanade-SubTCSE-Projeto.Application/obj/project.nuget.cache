@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8gJsycvwwMdjigLi5oQN7DEbuFcvLgZeGOxX4NWGk6YJJmgOVV1r+Z9A/yFjQaZ6TM5dLfboUFPYRdcVNq2A/g==",
+  "dgSpecHash": "H0JH1Z11qauSziv13QMt0KG3YanEcO5OfWeZgJxv7UAPn5vCoA7TDqKKRkdFKpPWEuemgS97i098FkKkyDxbRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\l.dos.santos.souza\\Documents\\Projetos GitHub\\Avanade-SubTCSE-Projeto\\src\\Avanade-SubTCSE-Projeto.Application\\Avanade-SubTCSE-Projeto.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\l.dos.santos.souza\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
